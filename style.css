@@ -56,6 +56,12 @@ body {
   font-weight: 400;
 }
 
+.nav__link:hover {
+  color: #cecdcd;
+  border-radius: 10px;
+  border-bottom: 2px solid var(--text-description-color);
+}
+
 .livros {
   display: flex;
   justify-content: space-between;

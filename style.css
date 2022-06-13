@@ -37,11 +37,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 50px;
+  height: 30px;
   margin: 4rem 0;
 }
 
-.nav__link {
+.btn {
   background-color: var(--button-color);
   border: none;
   cursor: pointer;
@@ -50,13 +50,13 @@ body {
   color: #fff;
   padding: 10px 16px;
   border-radius: 8px;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
 }
 
-.nav__link:hover {
+.btn:hover {
   color: #cecdcd;
   border-radius: 10px;
   border-bottom: 2px solid var(--text-description-color);
@@ -122,11 +122,30 @@ body {
   margin-right: 1rem;
 }
 
+.livros__disponiveis {
+  width: 100%;
+  height: 80px;
+  background-color: var(--text-description-color);
+  margin-top: 1rem;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.livros__disponiveis p {
+  color: #fff;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 2.5em;
+} 
+
 .rodape {
   width: 100%;
   height: 104px;
   background: linear-gradient(96.48deg, #002f52 36.3%, #326589 99.56%);
-  margin-top: 3rem;
+  margin-top: 1rem;
   text-align: center;
 
   display: flex;

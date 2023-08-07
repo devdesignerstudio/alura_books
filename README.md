@@ -1,4 +1,4 @@
-## Projeto Alura Books
+## Projeto <img src="./imagens/Logo-1.png" alt="Logo da AluraBooks">
 
 Projeto alura-books do curso Alura javascript métodos de arrays
 
@@ -22,7 +22,7 @@ Também somente a categoria "Disponíveis" possuí uma seção de somatório de 
 <hr>
 
 <p align="center"> <img src="./imagens/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial de apresentação de livros da <img src="./imagens/Logo-1.png" alt="Logo da AluraBooks">, uma plataforma de compra de livros digitais.</p>
+<p align="center">Página inicial de apresentação de livros da , uma plataforma de compra de livros digitais.</p>
 
 ## Tecnologias utilizadas durante o curso
 

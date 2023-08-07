@@ -8,17 +8,12 @@ let toggleCategoriaBackEnd = false
 let toggleCategoriaFrontEnd = false
 let toggleCategoriaDados = false
 let toggleCategoriaDisponiveis = false
-let iniciou = true
 
 const sectionValorTotalLivrosDisponiveis = document.getElementById(
   "valor_total_livros_disponiveis"
 )
 
-if (iniciou) {
-  iniciou = false
-  init()
-}
-
+init()
 
 async function init() {
   livros = await buscarLivrosApi()

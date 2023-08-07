@@ -22,7 +22,7 @@ Também somente a categoria "Disponíveis" possuí uma seção de somatório de 
 <hr>
 
 <p align="center"> <img src="./imagens/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial de apresentação de livros da , uma plataforma de compra de livros digitais.</p>
+<p align="center">Página inicial de apresentação de livros da plataforma AluraBooks de catálogo de livros digitais.</p>
 
 ## Tecnologias utilizadas durante o curso
 
